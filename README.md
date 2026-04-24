@@ -1,4 +1,4 @@
-# Sistema Para Triagem do Transtorno do Espectro Autista em Crianças e Recomendações de Estratégias Educacionais
+# MLP Para Triagem do Transtorno do Espectro Autista em Crianças e Recomendações de Estratégias Educacionais
 
 ---
 #### Projeto da Disciplina PET1706 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE (Redes Neurais Artificiais) - 2026.1 
